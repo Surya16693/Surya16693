@@ -1,7 +1,10 @@
 Hi there 👋🏻
+
+I am Surya:) 
+
 I am currently working as a Data Scientist. I come with an extensive experience of working with different technologies including Data Science and Machine Learning
 
- I have also worked as a Data Analyst at Ivy Mobility and JRA Analytics Pvt ltd.
+I have also worked as a Data Analyst at Ivy Mobility and JRA Analytics Pvt ltd.
 
 Things I'm good at 🔥
 Domain: Machine Learning, Data Wrangling and Data Visualization.
